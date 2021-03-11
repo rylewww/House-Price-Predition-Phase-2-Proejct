@@ -1,2 +1,2 @@
-# House-Price-Predition-Phase-2-Proejct
+# Kings County House Pricing Predictions
 Predicting House Pricing using Regression Modeling 
